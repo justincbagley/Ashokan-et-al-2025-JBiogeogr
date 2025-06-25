@@ -36,16 +36,16 @@ In support of the manuscript by Ashokan et al. (2025), this accession attempts t
 
 Given uncertainty regarding Elsevier's discontinuation of Data Monitor and other possible effects on the accessibility of Mendeley Data, a mirror of this accession is being created on GitHub at the following URL: <https://github.com/justincbagley/Ashokan-et-al-2025-JBiogeogr>. Users are redirected there for the most up-to-date version of this accession. However, are also encouraged to refer to the manuscript and supplementary files available on the journal website for additional information on how the data were generated, analyzed, and interpreted.
 
-REFERENCES
+<!-- REFERENCES
 
-Ashokan, A., Bagley, J.C., and Muchhala N. (2025) Climbing higher: exploring Northern Andean origin and non‐floral trait evolution in a rapid, recent angiosperm radiation. Journal of Biogeography, e15142. <https://doi.org/10.1111/jbi.15142>
-
+Ashokan, A., Bagley, J.C., and Muchhala N. (2025) Climbing higher: exploring Northern Andean origin and non‐floral trait evolution in a rapid, recent angiosperm radiation. Journal of Biogeography, e15142. <https://doi.org/10.1111/jbi.15142> 
+-->
 FUNDING
 
 National Science Foundation (NSF) (Federal Agency and Organisation Element: 4900, Federal Grant or Other Identifying Number Assigned by Agency: 1754802) research grant awarded to Nathan Muchhala.
 
 ## REFERENCES
 
-Ashokan, A., Bagley, J.C., and Muchhala, N. (2025) Climbing higher: exploring Northern Andean origin and non-floral trait evolution in a rapid, recent angiosperm radiation. _Journal of Biogeography_, e15142. <https://doi.org/10.1111/jbi.15142>
+Ashokan, A., Bagley, J.C., and Muchhala, N. (2025) Climbing higher: exploring Northern Andean origin and non-floral trait evolution in a rapid, recent angiosperm radiation. _Journal of Biogeography_, e15142. doi: <https://doi.org/10.1111/jbi.15142>
 
-Bagley, J., Ashokan, A., Muchhala, N. (2025), “Data for: Climbing higher: exploring Northern Andean origin and non-floral trait evolution in a rapid, recent angiosperm radiation”, _Mendeley Data_, V1, doi: 10.17632/h579b2xvz5.1
+Bagley, J., Ashokan, A., Muchhala, N. (2025), “Data for: Climbing higher: exploring Northern Andean origin and non-floral trait evolution in a rapid, recent angiosperm radiation”, _Mendeley Data_, V1, doi: <https://doi.org/10.17632/h579b2xvz5.1>
